@@ -5,5 +5,7 @@ Web_Scrape is a simple web crawling and web scraping script, used to crawl websi
 
 # Requirements
 Python 3.6+
+
 Chrome Driver at https://chromedriver.chromium.org/
+
 Works on Linux, Windows, macOS
